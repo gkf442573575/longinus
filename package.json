@@ -1,0 +1,25 @@
+{
+    "name": "longinus",
+    "version": "0.0.1",
+    "description": "longinus quickly create projects",
+    "main": "index.js",
+    "bin": {
+        "longinus": "bin/longinus.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gkf442573575/longinus.git"
+    },
+    "keywords": [
+        "longinus",
+        "simple",
+        "cli",
+        "quicklyproject"
+    ],
+    "author": "gkf442573575@163.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gkf442573575/longinus/issues"
+    },
+    "homepage": "https://github.com/gkf442573575/longinus#readme"
+}
