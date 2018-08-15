@@ -1,8 +1,8 @@
 {
     "name": "longinus",
     "version": "0.0.1",
-    "description": "longinus quickly create projects",
-    "main": "index.js",
+    "description": "longinus for quickly create projects",
+    "main": "bin/longinus.js",
     "bin": {
         "longinus": "bin/longinus.js"
     },
@@ -21,5 +21,15 @@
     "bugs": {
         "url": "https://github.com/gkf442573575/longinus/issues"
     },
-    "homepage": "https://github.com/gkf442573575/longinus#readme"
+    "homepage": "https://github.com/gkf442573575/longinus#readme",
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "commander": "^2.17.1",
+        "download-git-repo": "^1.0.2",
+        "fs-extra": "^7.0.0",
+        "inquirer": "^6.1.0",
+        "ora": "^3.0.0",
+        "shelljs": "^0.8.2",
+        "which": "^1.3.1"
+    }
 }
