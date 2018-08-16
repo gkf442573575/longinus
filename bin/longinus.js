@@ -9,7 +9,8 @@ program
     .usage('<command> [options]')
 
 program
-    .command('init <project-name>','Create a new project powered by longinus')
+    .command('init <project-name>')
+    .description('Create a new project powered by longinus')
     .action((name) => {
         require('../lib/init')(name)
     })
