@@ -1,6 +1,6 @@
 {
     "name": "longinus",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "longinus for quickly create projects",
     "main": "bin/longinus.js",
     "bin": {
@@ -12,7 +12,12 @@
     },
     "keywords": [
         "longinus",
+        "app template",
         "simple",
+        "project template",
+        "gulp",
+        "webpack4.0",
+        "template",
         "cli",
         "quicklyproject"
     ],
