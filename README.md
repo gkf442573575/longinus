@@ -1,6 +1,6 @@
 ## Longinus
 
-![Image text](https://i.postimg.cc/9Qhmq0Dx/longinus.png)
+[![longinus.png](https://i.postimg.cc/9Qhmq0Dx/longinus.png)](https://postimg.cc/xc6Dw0yH)
 
 Longinus is also known as the "Spear Of Destiny",In EVA is a key component of the human end-of-life plan.
 
