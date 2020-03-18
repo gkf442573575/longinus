@@ -19,7 +19,8 @@
         "webpack4.0",
         "template",
         "cli",
-        "quicklyproject"
+        "quicklyproject",
+        "vue-admin"
     ],
     "author": "gkf442573575@163.com",
     "license": "ISC",
