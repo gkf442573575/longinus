@@ -17,7 +17,6 @@ program
 
 program.on('--help', () => {
     console.log('You can browse ' + packageJson.repository.url);
-
 })
 
 program.parse(process.argv)

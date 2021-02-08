@@ -1,6 +1,6 @@
 {
     "name": "longinus",
-    "version": "0.0.6",
+    "version": "1.0.0",
     "description": "longinus for quickly create projects",
     "main": "bin/longinus.js",
     "bin": {
@@ -20,7 +20,10 @@
         "template",
         "cli",
         "quicklyproject",
-        "vue-admin"
+        "vue-admin",
+        "electron",
+        "vue",
+        "electron vue"
     ],
     "author": "gkf442573575@163.com",
     "license": "ISC",
