@@ -4,14 +4,26 @@
 
 Longinus is also known as the "Spear Of Destiny",In EVA is a key component of the human end-of-life plan.
 
-It provides project templates for gulp, webpack4.0
+It provides project templates for gulp, webpack4.0, electron-vue,vue-element-admin
 You can choose according to your needs.
 
 
 [![NpmVersion](https://img.shields.io/npm/v/longinus.svg)](https://www.npmjs.com/package/longinus)
 ![npm](https://img.shields.io/npm/dw/longinus.svg)
 
+### Template List
+
+ [gulp template](https://github.com/gkf442573575/gulpsimple)
+
+ [webpack4.0 template](https://github.com/gkf442573575/webpack4.0-simple)
+
+[electron-vue](https://github.com/gkf442573575/electron-vue-simple)
+
+ [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+
+
 ### Before Use
+If you use gulp template or webpack4.0 template
 You have to make sure that you have the corresponding gulp or webpack4.0 in your global environment.
 ### Use
 ```bash
