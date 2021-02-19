@@ -1,6 +1,6 @@
 {
     "name": "longinus",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "longinus for quickly create projects",
     "main": "bin/longinus.js",
     "bin": {
