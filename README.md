@@ -25,6 +25,8 @@ You can choose according to your needs.
 
   [vue3-element](https://github.com/gkf442573575/vue3-element-template)
 
+  [vite-vue3-ts](https://github.com/gkf442573575/vite-vue-ts)
+
 
 ### Before Use
 If you use gulp template or webpack4.0 template
