@@ -1,6 +1,6 @@
 {
     "name": "longinus",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "longinus for quickly create projects",
     "main": "bin/longinus.js",
     "bin": {
@@ -28,7 +28,8 @@
         "angular admin",
         "ng admin",
         "vue3 element",
-        "vue3"
+        "vue3",
+        "vite"
     ],
     "author": "gkf442573575@163.com",
     "license": "ISC",
