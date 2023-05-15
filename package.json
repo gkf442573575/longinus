@@ -1,6 +1,6 @@
 {
   "name": "longinus",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "longinus for quickly create projects",
   "main": "bin/longinus.js",
   "bin": {
@@ -29,7 +29,7 @@
     "vue3",
     "vite"
   ],
-  "scripts":{
+  "scripts": {
     "bump": "sh ./publish.sh && npm run push && npm run push:tag",
     "push": "git push",
     "push:tag": "git push origin --tags"
