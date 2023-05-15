@@ -1,6 +1,6 @@
 #!/bin/bash
 
-version=$(npm longinus version)
+version=$(npm view longinus version)
 
 echo "longinus now verison : $version"
 
