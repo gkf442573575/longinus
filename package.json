@@ -29,6 +29,11 @@
     "vue3",
     "vite"
   ],
+  "scripts":{
+    "bump": "sh ./publish.sh && npm run push && npm run push:tag",
+    "push": "git push",
+    "push:tag": "git push origin --tags"
+  },
   "author": "gkf442573575@163.com",
   "license": "MIT",
   "bugs": {
